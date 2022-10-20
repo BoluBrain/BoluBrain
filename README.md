@@ -1,5 +1,4 @@
 
-
 Hi 👋, I'm BoluBrain
 
 🔭 I’m currently working as an intern student in the ALX SE program
@@ -17,3 +16,4 @@ Hi 👋, I'm BoluBrain
 ⚡ Fun fact: Coding is my hubby 
 
               I love to do hard things
+
